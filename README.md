@@ -12,7 +12,7 @@
 ## BẢNG MỤC LỤC
 * [Giới thiệu môn học](#giới-thiệu-môn-học)
 * [Giới thiệu nhóm](#giới-thiệu-nhóm)
-* [Thư mục bài tập](#bài-tập-tuần)
+* [Thư mục bài tập](#thư-mục-bài-tập)
 * [Đồ án cuối kì](#đồ-án-cuối-kì)
 <!--* [Tổng kết môn học](https://github.com/.../CS112.L21/blob/main/SummaryReport)-->
 
