@@ -30,7 +30,7 @@
 | 1 | Nguyễn Thị Như Vân | 20520855 | Thành viên | 20520855@gm.uit.edu.vn | [nhwzaan](https://github.com/nhwzaam) | [vanntn](https://www.facebook.com/xxnhwzaan/) |
 | 2 | Huỳnh Anh Kiệt | 19521724 | Thành viên | 19521724@gm.uit.edu.vn |  |  |
 
-## BÀI TẬP TUẦN
+## THƯ MỤC BÀI TẬP
 ### [Bài tập 1: Các mô hình máy học cho bài toán Regression](https://github.com/nhwzaan/CS116/blob/main/Exercises/20520855_BT1.py)
 Sử dụng các dataset đã được cung cấp để áp dụng các mô hình: Linear Regression, SVR với Polynomial kernel, Random Forest.
 Tiến hành thí nghiệm và so sánh các phương pháp.
