@@ -8,7 +8,7 @@
 <!-- Title -->
 <h1 align="center"><b>CS116.N11.KHCL - LẬP TRÌNH PYTHON CHO MÁY HỌC -  PYTHON FOR MACHINE LEARNING</b></h1>
 
-
+<a name="readme-top"></a>
 ## BẢNG MỤC LỤC
 * [Giới thiệu môn học](#giới-thiệu-môn-học)
 * [Giới thiệu nhóm](#giới-thiệu-nhóm)
@@ -55,6 +55,7 @@ Tiến hành thí nghiệm và so sánh các phương pháp.
   - Phường nào có mật độ dân số cao nhất (2019)
   - Phường nào có mật độ dân số thấp nhất (2019)
 
+
 ### [Bài tập 3: Trực quan hóa dữ liệu bản đồ](https://github.com/nhwzaan/CS116/blob/main/Exercises/20520855_BT3_TrucQuanHoaDuLieuBanDo.ipynb)
 
 Bước 1: Cài đặt geopandas và folium
@@ -65,6 +66,7 @@ Bước 3: dùng geopandas để đọc shapefile trong /Data/GIS/Population/pop
 
 Bước 4: hãy thực hiện vẽ ranh giới các quận lên bản đồ dựa theo hướng dẫn sau:
 https://geopandas.readthedocs.io/en/latest/gallery/polygon_plotting_with_folium.html
+
 
 ### [Bài tập 4: Gom cụm dữ liệu click của người dùng](https://github.com/nhwzaan/CS116/tree/main/Exercises/BT4_Click_Data_20520855_NguyenThiNhuVan)
 Bước 1: Cài đặt các thư viện cần thiết
@@ -119,6 +121,7 @@ Thiết kế giao diện với Streamlit để có thể:
   - Nút "Run" để tiến hành chạy và đánh giá thuật toán
 
 Output sẽ là biểu đồ cột hiển thị các kết quả sử dụng độ đo MAE và MSE. Lưu ý: Train/Test split và K-Fold cross validation được thực hiện độc lập, chỉ chọn 1 trong hai phương pháp này.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### [Bài tập 6: Phân lớp với Logistic Regression và đánh giá mô hình + Streamlit](https://github.com/nhwzaan/CS116/blob/main/Exercises/20520855_BT6_LogisticRegression_Streamlit.py)
 
@@ -175,6 +178,15 @@ Hãy sử dụng mô hình SVM (classification) trên tập dữ liệu Social N
 Tham khảo code mẫu ở đây: https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
 
 Dataset: [Social Network Ads](https://github.com/nhwzaan/CS116/blob/main/Dataset/Social_Network_Ads.csv)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ĐỒ ÁN CUỐI KÌ
+**SENTIMENT ANALYSIS BASED ON MACHINE LEARNING METHODS**
+
+- **_Abstract:_**  Sentiment analysis is an exciting new field of research in Artificial Intelligence combining Natural Language Processing, Machine Learning and Psychology. Since 2000, due to the proliferation of huge amounts of opinions in electronic form on the web, on social networks and on blogs, automatic means of polarity (positive, negative and neutral) detection in texts flourished in leaps and bounds. Individual and organizations with public interface can no longer afford to be oblivious of sentiments expressed about them in electronic form. In the present tutorial, we will first discuss the foundations of sentiment analysis, covering knowledge based and machine learning based techniques. Sentiment Analysis is the most common text classification tool that analyses an incoming message and tells whether the underlying sentiment is joy, sadness, anger, fear or neutral.
+- _**Detailed report:**_ [Sentiment Analysis based on Machine Learning methods](https://github.com/nhwzaan/CS116/blob/main/Final%20Project/19521724_20520855.pdf)
+- _**Dataset:**_ [training and testing data](https://github.com/nhwzaan/CS116/tree/main/Final%20Project/Dataset)
+- **_Coding and supporting:_** please contact me at 20520855@gm.uit.edu.vn (≧∇≦)ﾉ
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
