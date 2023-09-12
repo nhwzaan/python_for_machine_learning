@@ -32,7 +32,8 @@
 
 ## THƯ MỤC BÀI TẬP
 
-***Lưu ý: bài làm cá nhân
+_Lưu ý: bài tập làm cá nhân_
+
 ### [Bài tập 1: Các mô hình máy học cho bài toán Regression](https://github.com/nhwzaan/CS116/blob/main/Exercises/20520855_BT1.py)
 Sử dụng các dataset đã được cung cấp để áp dụng các mô hình: Linear Regression, SVR với Polynomial kernel, Random Forest.
 Tiến hành thí nghiệm và so sánh các phương pháp.
